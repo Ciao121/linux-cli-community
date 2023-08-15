@@ -356,6 +356,7 @@ def check_root():
 
 
 def check_update():
+    return
     """Return the download URL if an Update is available, False if otherwise"""
 
     def get_latest_version():
